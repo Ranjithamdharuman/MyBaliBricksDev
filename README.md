@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
@@ -20,3 +21,6 @@ The `sfdx-project.json` file contains useful configuration information for your 
 =======
 # Salesforce
 >>>>>>> b7faff641f94e4ff0d2a6c6d3bbea3153a3d3cc8
+=======
+# sampleGitconfig
+>>>>>>> ef2772d8847af2cc7cf595679f2d60697fdb128b
