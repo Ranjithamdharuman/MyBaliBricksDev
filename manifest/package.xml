@@ -503,11 +503,8 @@
     <types>
         <members>*</members>
         <name>WorkflowKnowledgePublish</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>WorkflowOutboundMessage</name>
-    </types>
+    </types>+
+    
     <types>
         <members>*</members>
         <name>WorkflowRule</name>
