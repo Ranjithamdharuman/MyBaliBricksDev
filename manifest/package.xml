@@ -4,6 +4,10 @@
         <members>*</members>
         <name>ActionLinkGroupTemplate</name>
     </types>
+     <types>
+        <members>*</members>
+        <name>PullingRequestTest</name>
+    </types>
     <types>
         <members>*</members>
         <name>AnalyticSnapshot</name>
