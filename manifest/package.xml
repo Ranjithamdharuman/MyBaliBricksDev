@@ -524,5 +524,9 @@
         <members>*</members>
         <name>Settings</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>Settings test for changes</name>
+    </types>
     <version>62.0</version>
 </Package>
